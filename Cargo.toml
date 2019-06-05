@@ -1,0 +1,7 @@
+[package]
+name = "evolution"
+version = "0.1.0"
+authors = ["Petr Šťastny <petr.stastny01@gmail.com>"]
+edition = "2018"
+
+[dependencies]
