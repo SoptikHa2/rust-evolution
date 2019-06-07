@@ -9,5 +9,3 @@ This repository is core, it should do all the math and work. Graphical output ma
 I've already made C# version, but it was long ago, and I like to think I'm further and I'll be able to make something better. And it's great opportunity to finally learn Rust properly.
 
 The plan is to create application that would be ideally multi-threaded and easy-to-extend. This with combination with Rust should make it run a lot faster than the C# version. And it will work on Linux natively.
-
-*Reading this fills you with Determination.*
