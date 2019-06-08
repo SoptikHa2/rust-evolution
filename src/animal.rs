@@ -32,7 +32,7 @@ impl<N: Node> Animal<N> {
     /// 
     /// Direction `Direction::Here` is ignored,
     /// but move will still cost energy.
-    pub fn go(direction: Direction) {}
+    pub fn move_direction(direction: Direction) {}
 
     /// Find direction to closest food pellet.
     /// 
